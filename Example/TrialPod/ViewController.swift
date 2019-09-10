@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import TrialPod
 
 class ViewController: UIViewController {
 
