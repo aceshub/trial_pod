@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of TrialPod.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/arahann.asa@gmail.com/TrialPod",
+  "homepage": "https://github.com/aceshub/trial_pod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "arahann.asa@gmail.com": "arahann.asa@gmail.com"
   },
   "source": {
-    "git": "https://github.com/arahann.asa@gmail.com/TrialPod.git",
+    "git": "https://github.com/aceshub/trial_pod.git",
     "tag": "0.1.0"
   },
   "platforms": {
