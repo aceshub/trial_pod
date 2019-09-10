@@ -1,0 +1,22 @@
+{
+  "name": "TrialPod",
+  "version": "0.1.0",
+  "summary": "A short description of TrialPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/arahann.asa@gmail.com/TrialPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "arahann.asa@gmail.com": "arahann.asa@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/arahann.asa@gmail.com/TrialPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TrialPod/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TrialPod (0.1.0)
+
+DEPENDENCIES:
+  - TrialPod (from `../`)
+
+EXTERNAL SOURCES:
+  TrialPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TrialPod: 3938b21aae10ebe4f4eb985bed6c3639b389b6cc
+
+PODFILE CHECKSUM: e35387bac40b45e11ffdb46d145eff459840fe63
+
+COCOAPODS: 1.5.3
